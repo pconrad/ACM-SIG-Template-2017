@@ -1,0 +1,17 @@
+*.dvi
+*.pdf
+*.log
+*.blg
+*.bbl
+*.out
+*.aux
+
+
+*.dtx
+*.glo
+*.gls
+*.hd
+*.idx
+*.ilg
+*.ind
+*.toc
