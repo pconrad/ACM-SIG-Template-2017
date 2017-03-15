@@ -62,7 +62,7 @@ sample-sigchi.pdf: samplebody-conf.tex
 
 
 clean:
-	$(RM)  $(PACKAGE).cls *.log *.aux \
+	$(RM)  *.log *.aux \
 	*.cfg *.glo *.idx *.toc \
 	*.ilg *.ind *.out *.lof \
 	*.lot *.bbl *.blg *.gls *.cut *.hd \
